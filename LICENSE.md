@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with quantitative bybit trading bot Tool | order-book-analysis + price-monitoring, the #1 bybit trading bot. Includes order-book-analysis and price-monitoring
 
 
 
